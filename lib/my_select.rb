@@ -5,5 +5,6 @@ while i<collection.length
 if (yield collection[i])==collection[i]
   newvals << collection[i]
 end
+end
 newvals
 end
